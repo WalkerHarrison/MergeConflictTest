@@ -1,0 +1,13 @@
+---
+title: "MergeConflict"
+author: "Author"
+date: "1/31/2019"
+output: html_document
+---
+
+```{r}
+x <- 1:100
+y <- x + rnorm(100)
+plot(x, y)
+```
+
